@@ -4,6 +4,7 @@ Code Repository of "Efficient Implicit Neural Compression of Point Clouds via Le
 Coming Soon
 
 arXiv Link: [https://arxiv.org/abs/2504.14471](https://arxiv.org/abs/2504.14471)
+
 Citation
 ```
 @article{zhang2025efficient,
